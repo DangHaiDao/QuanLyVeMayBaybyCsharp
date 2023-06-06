@@ -1,0 +1,144 @@
+C:\Users\pc\source\repos\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DangNhap.resources
+C:\Users\pc\source\repos\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DoiMatKhau.resources
+C:\Users\pc\source\repos\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.HangKhach.resources
+C:\Users\pc\source\repos\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Main.resources
+C:\Users\pc\source\repos\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.NhanVien.resources
+C:\Users\pc\source\repos\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Properties.Resources.resources
+C:\Users\pc\source\repos\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DangNhap.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DatCho.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DoiMatKhau.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.HangVe.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.HangKhach.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.LichBay.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Main.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.NhanVien.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Properties.Resources.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.QuyDinh.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.SanBay.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.TraCuuChuyenBay.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.TuyenBay.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe.config
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.pdb
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.exe
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.pdb
+C:\Users\pc\Desktop\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DoanhThu.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe.config
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.pdb
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DangNhap.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DatCho.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DoanhThu.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DoiMatKhau.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.HangVe.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.HangKhach.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.LichBay.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Main.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.NhanVien.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.QuyDinh.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.SanBay.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.TraCuuChuyenBay.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.TuyenBay.resources
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.exe
+C:\Users\Admin\Downloads\QLBANVEMAYBAY\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.pdb
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe.config
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.pdb
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DangNhap.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DatCho.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DoanhThu.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DoiMatKhau.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.HangVe.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.HangKhach.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.LichBay.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Main.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.NhanVien.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Properties.Resources.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.QuyDinh.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.SanBay.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.TraCuuChuyenBay.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.TuyenBay.resources
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.exe
+C:\Users\pc\Desktop\QLBANVEMAYBAY_update\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.pdb
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe.config
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.pdb
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.AssemblyReference.cache
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.SuggestedBindingRedirects.cache
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DangNhap.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DatCho.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DoanhThu.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.DoiMatKhau.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.HangVe.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.HangKhach.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.LichBay.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Main.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.NhanVien.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Properties.Resources.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.QuyDinh.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.SanBay.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.TraCuuChuyenBay.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.TuyenBay.resources
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.GenerateResource.cache
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.CoreCompileInputs.cache
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.exe
+D:\NĂM 1\Năm2\NMCNPM\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.pdb
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe.config
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.pdb
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.AssemblyReference.cache
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.SuggestedBindingRedirects.cache
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Properties.Resources.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.GenerateResource.cache
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.CoreCompileInputs.cache
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.exe
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.pdb
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.DangNhap.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.DatCho.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.DoanhThu.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.DoiMatKhau.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.HangVe.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.LichBay.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.Main.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.NhanVien.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.QuyDinh.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.SanBay.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.TraCuuChuyenBay.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.TuyenBay.resources
+D:\LAB-ĐỒ ÁN CUỐI KỲ-NHÓM 6\QLBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.HanhKhach.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.AssemblyReference.cache
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.SuggestedBindingRedirects.cache
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.DangNhap.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.DatCho.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.DoanhThu.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.DoiMatKhau.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.HangVe.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.HanhKhach.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.LichBay.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.Main.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.NhanVien.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.QuyDinh.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.SanBay.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.TraCuuChuyenBay.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.GenerateResource.cache
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.exe
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.pdb
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe.config
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.exe
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\bin\Debug\QLBANVEMAYBAY.pdb
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.Properties.Resources.resources
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QLBANVEMAYBAY.csproj.CoreCompileInputs.cache
+D:\NAM1\NAM2\NMCNPM\QUANLYBANVEMAYBAY\obj\Debug\QUANLYBANVEMAYBAY.ChuyenBay.resources
